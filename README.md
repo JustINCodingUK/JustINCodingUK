@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JustINCodingUK
-- 👀 I’m interested in Java and Android
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in Java and Android (And any other language)
 - 🌱 I’m currently learning Android App Development
 
 <!---
