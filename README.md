@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in Java and Android (And any other language)
-- 🌱 I’m currently learning Android App Development
+- 👀 I’m interested in Java, Kotlin and Android
+- 🌱 I’m currently learning TensorFlow Lite
 
 <!---
 JustINCodingUK/JustINCodingUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
